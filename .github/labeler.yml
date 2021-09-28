@@ -2,4 +2,42 @@
 critical:
     - '(critical|urgent)'
 "type: game server request":
-    - '(Server Request)'    
+    - '(Server Request)'
+# Commands
+"command: backup":
+    - '(backup)'
+"command: console":
+    - '(console|tmux)'
+"command: debug":
+    - '(debug)'
+"command: details":
+    - '(details)'
+"command: fast-dl":
+    - '(fast-dl)'
+"command: install":
+    - '(install)'
+"command: mods":
+    - '(mods)'
+"command: monitor":
+    - '(monitor)'
+"command: post-details":
+    - '(post-details)'
+"command: restart":
+    - '(restart)'
+"command: send":
+    - '(send)'
+"command: skeleton":
+    - '(skeleton)'
+"command: start":
+    - '(start)'
+"command: stop":
+    - '(stop)'
+"command: update-lgsm":
+    - '(update-lgsm)'
+"command: update":
+    - '(update)'
+"command: validate":
+    - '(validate)'
+"command: wipe":
+    - '(wipe)'
+# Distros
