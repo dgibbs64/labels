@@ -39,3 +39,21 @@
 "command: wipe":
     - '(wipe)'
 # Distros
+"distro: AlmaLinux":
+    - '(Alma)'
+"distro: Arch Linux":
+    - '(Arch)'
+"distro: CentOS":
+    - '(CentOS)'
+"distro: Debian":
+    - '(Debian)'
+"distro: Fedora":
+    - '(Fedora)'
+"distro: openSUSE":
+    - '(openSUSE)'
+"distro: Rocky Linux":
+    - '(Rocky)'
+"distro: Slackware":
+    - '(Slackware)'
+"distro: Ubuntu":
+    - '(Ubuntu)'
